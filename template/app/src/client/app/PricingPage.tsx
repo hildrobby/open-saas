@@ -40,6 +40,8 @@ const PricingPage = () => {
   const history = useHistory();
 
   async function handleBuyNowClick(tierId: string) {
+    console.log('a little help here')
+    console.log('tier id in pricing page', tierId)
     if (!user) {
       history.push('/login');
       return;

@@ -130,7 +130,7 @@
 +                  superpowers
                  </h1>
 -                <p className='mt-6 mx-auto max-w-2xl text-lg leading-8 text-gray-600 dark:text-white'>
--                  With some more exciting words about your product!
+-                  With some more exciting words about your product!z
 +                <p className='mt-6 mx-auto max-w-2xl text-lg leading-8 text-gray-600 dark:text-gray-400'>
 +                  An open-source, feature-rich, full-stack React + NodeJS
 +                  template that manages features for you.
